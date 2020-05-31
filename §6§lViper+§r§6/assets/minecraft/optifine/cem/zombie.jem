@@ -1,0 +1,13 @@
+{
+"textureSize":[64, 64],
+"models":
+[
+{
+		"id": "body",
+		"model": "zombie_body.jpm",
+		"part": "body",
+		"translate": [0, 24, -6.9],
+		"rotate": [0, 0, 0]
+	}
+]
+}
