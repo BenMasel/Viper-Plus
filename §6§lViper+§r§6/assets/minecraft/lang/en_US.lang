@@ -31,6 +31,8 @@ menu.returnToGame=§aBack to Game
 menu.switchingLevel=Switching worlds
 menu.respawning=§eRespawning
 menu.shareToLan=§bLAN
+menu.options=Options
+menu.modOptions=Mod Options
 
 selectWorld.title=Select World
 selectWorld.empty=empty
@@ -1013,7 +1015,7 @@ item.ghastTear.name=Ghast Tear
 item.netherStalkSeeds.name=Nether Wart
 item.potion.name=Potion
 item.emptyPotion.name=Water Bottle
-item.goldNugget.name=Gold Nugget
+item.goldNugget.name=§6Gold §fNugget
 item.glassBottle.name=Glass Bottle
 item.spiderEye.name=Spider Eye
 item.fermentedSpiderEye.name=Fermented Spider Eye

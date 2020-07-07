@@ -1,6 +1,6 @@
 In no way am I passing these textures off as my own.
 
-This is basically a revamp of Finlay's Revamp of Deo's 2k Pack + some outline theme inspired by Wyncraft and yeh.
+This is basically a Deo's 2k Pack revamp + some outline theme inspired by Wyncraft and a bunch of other textures from other packs.
 These are the various packs and artists who I took textures and generally inspiration from:
 
 Credits
@@ -9,6 +9,7 @@ Credits
 - @EyEyMoses | https://twitter.com/EyEyMoses?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 - Iconic GUI (By olek128)| https://www.planetminecraft.com/texture_pack/unificated-gui/
 - Supernova [16x] (By Keno, Emma & Moses) | https://www.youtube.com/watch?v=ci69eSLaSsA
+- GGMEN (By Luvenox) |
 
 Inspiration
 - Wyncraft 1.8.9 (By Wyncraft) | https://wynncraft.com/
@@ -21,6 +22,9 @@ The textures that i have actually made are:
 
 - All The Tools
 - Roast & Raw Chicken
-- Fireworks
+- Firework Rocket Texture
+- Models for Diamond, Gold & Iron Armour
+- Seeds
+- Cauldron Iteem Texture
 
 The rest are either adapted from other texturepacks or exact from various texturepacks (or i have forgotten that i have edited the textures)
