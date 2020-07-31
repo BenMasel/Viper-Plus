@@ -1,0 +1,87 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/) This model was made by Josephpica. Copyright 2016",
+    "textures": {
+    "particle": "blocks/ladder",
+        "0": "blocks/ladder"
+    },
+    "elements": [
+        {
+            "name": "LadderRung",
+            "from": [ 1.0, 1.0, 14.0 ], 
+            "to": [ 15.0, 3.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 13.0, 15.0, 15.0 ] },
+                "east": { "texture": "#0", "uv": [ 1.0, 13.0, 2.0, 15.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 13.0, 15.0, 15.0 ] },
+                "west": { "texture": "#0", "uv": [ 14.0, 13.0, 15.0, 15.0 ] },
+                "up": { "texture": "#0", "uv": [ 1.0, 13.0, 15.0, 14.0 ] },
+                "down": { "texture": "#0", "uv": [ 1.0, 14.0, 15.0, 15.0 ] }
+            }
+        },
+        {
+            "name": "LadderPost",
+            "from": [ 3.0, 0.0, 15.0 ], 
+            "to": [ 5.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 12.0, 0.0, 14.0, 16.0 ] },
+                "east": { "texture": "#0", "uv": [ 12.0, 0.0, 13.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 12.0, 0.0, 14.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 13.0, 0.0, 14.0, 16.0 ] },
+                "up": { "texture": "#0", "uv": [ 12.0, 0.0, 14.0, 1.0 ] },
+                "down": { "texture": "#0", "uv": [ 12.0, 15.0, 14.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "LadderRung",
+            "from": [ 1.0, 13.0, 14.0 ], 
+            "to": [ 15.0, 15.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 7.0 ] },
+                "east": { "texture": "#0", "uv": [ 1.0, 5.0, 2.0, 7.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 7.0 ] },
+                "west": { "texture": "#0", "uv": [ 14.0, 5.0, 15.0, 7.0 ] },
+                "up": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 6.0 ] },
+                "down": { "texture": "#0", "uv": [ 1.0, 6.0, 15.0, 7.0 ] }
+            }
+        },
+        {
+            "name": "LadderPost",
+            "from": [ 11.0, 0.0, 15.0 ], 
+            "to": [ 13.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 2.0, 0.0, 4.0, 16.0 ] },
+                "east": { "texture": "#0", "uv": [ 12.0, 0.0, 13.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 12.0, 0.0, 14.0, 16.0 ] },
+                "west": { "texture": "#0", "uv": [ 13.0, 0.0, 14.0, 16.0 ] },
+                "up": { "texture": "#0", "uv": [ 12.0, 0.0, 14.0, 1.0 ] },
+                "down": { "texture": "#0", "uv": [ 12.0, 15.0, 14.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "LadderRung",
+            "from": [ 1.0, 5.0, 14.0 ], 
+            "to": [ 15.0, 7.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 7.0 ] },
+                "east": { "texture": "#0", "uv": [ 1.0, 5.0, 2.0, 7.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 7.0 ] },
+                "west": { "texture": "#0", "uv": [ 14.0, 5.0, 15.0, 7.0 ] },
+                "up": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 6.0 ] },
+                "down": { "texture": "#0", "uv": [ 1.0, 6.0, 15.0, 7.0 ] }
+            }
+        },
+        {
+            "name": "LadderRung",
+            "from": [ 1.0, 9.0, 14.0 ], 
+            "to": [ 15.0, 11.0, 15.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 7.0 ] },
+                "east": { "texture": "#0", "uv": [ 1.0, 5.0, 2.0, 7.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 7.0 ] },
+                "west": { "texture": "#0", "uv": [ 14.0, 5.0, 15.0, 7.0 ] },
+                "up": { "texture": "#0", "uv": [ 1.0, 5.0, 15.0, 6.0 ] },
+                "down": { "texture": "#0", "uv": [ 1.0, 6.0, 15.0, 7.0 ] }
+            }
+        }
+    ]
+}
